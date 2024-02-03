@@ -1,4 +1,4 @@
-# Kit de Integración para Vara Network
+# CryptoBets - Descentralized Gambling Platform
 
 Bienvenido al Kit de Integración para Vara Network, es una herramienta poderosa para facilitar la integración con Vara Network en tus proyectos. Este kit proporciona una base sólida para interactuar con Vara Network y aprovechar sus capacidades en tu aplicación.
 
@@ -38,10 +38,6 @@ Asegúrate de tener instaladas las siguientes dependencias antes de comenzar:
     ```bash
     yarn start
    o ```
-
-## Uso
-
-Consulta la [documentación](./docs) para obtener información detallada sobre cómo utilizar este kit en tu proyecto. Aquí encontrarás ejemplos de código y explicaciones paso a paso.
 
 
 
